@@ -26,7 +26,7 @@ import { loader as editJobLoader } from './pages/EditJob';
 import { action as editJobAction } from './pages/EditJob';
 import { action as deleteJobAction } from './pages/DeleteJob';
 import { loader as adminLoader } from './pages/Admin';
-import { action as profileAction } from './pages/Profile';
+import { action as profileAction } from './pages/profile';
 import { loader as statsLoader } from './pages/Stats';
 import ErrorElement from './components/ErrorElement';
 
